@@ -1,0 +1,4 @@
+baseURL = "https://frosty-mccarthy-bb047f.netlify.com/"
+languageCode = "en-us"
+title = "Flyin' On a Wing & a Prayer"
+theme = "whiteplain"

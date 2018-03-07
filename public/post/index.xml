@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Flyin&#39; On a Wing &amp; a Prayer</title>
+    <link>https://frosty-mccarthy-bb047f.netlify.com/post/</link>
+    <description>Recent content in Posts on Flyin&#39; On a Wing &amp; a Prayer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Mar 2018 15:27:13 -0800</lastBuildDate>
+    
+	<atom:link href="https://frosty-mccarthy-bb047f.netlify.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://frosty-mccarthy-bb047f.netlify.com/post/my-first-post/</link>
+      <pubDate>Tue, 06 Mar 2018 15:27:13 -0800</pubDate>
+      
+      <guid>https://frosty-mccarthy-bb047f.netlify.com/post/my-first-post/</guid>
+      <description>This is a test post</description>
+    </item>
+    
+  </channel>
+</rss>
